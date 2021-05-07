@@ -1,12 +1,20 @@
 {
     "models": [
-        "platelet-2",
-        "bilibili-live/33",
-        "bilibili-live/22"
+        [
+            "hk416_805/normal",
+            "hk416_805/destroy"
+        ],
+        [
+            "grizzly_2102/normal",
+            "grizzly_2102/destroy"
+        ],
+        "shield",
+        "platelet-2"
     ],
     "messages": [
-        "来自 工作细胞 的 血小板 哦 ~",
-        "来自 Bilibili Live 的 33 的说",
-        "来自 Bilibili Live 的 22 哦 ~"
+        "来自少女前线~",
+        "来自少女前线~",
+        "来自少女前线~",
+        "来自 工作细胞 的 血小板 哦 ~"
     ]
 }
