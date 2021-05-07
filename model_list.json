@@ -1,0 +1,12 @@
+{
+    "models": [
+        "bilibili-live/22",
+        "bilibili-live/33",
+        "platelet-2"
+    ],
+    "messages": [
+        "来自 Bilibili Live 的 22 哦 ~",
+        "来自 Bilibili Live 的 33 的说",
+        "来自 工作细胞 的 血小板 哦 ~"
+    ]
+}
