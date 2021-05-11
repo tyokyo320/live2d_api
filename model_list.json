@@ -1,14 +1,17 @@
 {
     "models": [
         [
+            "kp31_3101/normal",
+            "kp31_3101/destroy"
+        ],
+        [
             "hk416_805/normal",
             "hk416_805/destroy"
         ],
         [
-            "grizzly_2102/normal",
-            "grizzly_2102/destroy"
+            "kp31_310/normal",
+            "kp31_310/destroy"
         ],
-        "shield",
         "platelet-2"
     ],
     "messages": [
