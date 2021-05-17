@@ -1,11 +1,11 @@
 {
   "Version": 3,
   "FileReferences": {
-    "Moc": "dujiaoshou_4.moc3",
+    "model": "model.moc3",
     "Textures": [
       "textures/texture_00.png"
     ],
-    "Physics": "dujiaoshou_4.physics3.json",
+    "Physics": "physics.json",
     "Motions": {
       "": [
         {
