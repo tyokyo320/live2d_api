@@ -2,7 +2,7 @@
   "Version": 3,
   "FileReferences": {
     "model": "model.moc3",
-    "Textures": [
+    "textures": [
       "textures/texture_00.png"
     ],
     "physics": "physics.json",
