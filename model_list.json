@@ -7,14 +7,10 @@
         [
             "hk416_805/normal",
             "hk416_805/destroy"
-        ],
-        "AzurLane/dujiaoshou_4",
-        "AzurLane/dujiaoshou_6"
+        ]
     ],
     "messages": [
         "来自少女前线 的 索米 哦~",
-        "来自少女前线 的 hk416 哦~",
-        "来自碧蓝航线 的 Unicorn 哦~",
-        "来自碧蓝航线 的 Unicorn 哦~"
+        "来自少女前线 的 hk416 哦~"
     ]
 }
