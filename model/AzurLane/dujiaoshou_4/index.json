@@ -1,10 +1,9 @@
 {
-  "Version": 3,
-  "FileReferences": {
-    "model": "model.moc",
-    "textures": [
-      "textures/texture_00.png"
-    ],
+  "version": 3,
+  "model": "model.moc3",
+  "textures": [
+    "textures/texture_00.png"
+  ],
     "physics": "physics.json",
     "motions":{
       "idle":[
@@ -25,8 +24,7 @@
         {"file":"motions/mail.motion3.json"},
         {"file":"motions/idle.motion3.json"}
       ]
-    }
-  },
+    },
   "Groups": [
     {
       "Target": "Parameter",
